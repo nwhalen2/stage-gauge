@@ -10,6 +10,10 @@ Start date of this project: 8 November 2023
 
 Beginning to web scrape from lh-st.com, Lincoln Hall and Schubas Tavern's joint website which displays all upcoming concerts at the two venues.
 
+## Dependencies
+
+python3 -m pip install beautifulsoup4
+
 ## Could be helpful in the future
 
 [Domain name](https://www.godaddy.com/domainsearch/find?domainToCheck=stagegauge.com&isc=GPPTCOM&itc=parkedpage_landers&key=parkweb&tmskey=dpp_dbs&utm_campaign=x_dom-broker_parkedpages_x_x_invest_001&utm_medium=parkedpages&utm_source=godaddy)
