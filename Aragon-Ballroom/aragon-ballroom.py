@@ -9,9 +9,12 @@ html = page.read().decode("utf-8")
 
 soup = BeautifulSoup(html, "html.parser")
 
+# venue name == Aragon Ballroom
+venue = "Aragon Ballroom"
+# livenation uses this class name to separate shows
 show_info = soup.select(".css-re1cpl") 
 # results found on web
-print(len(show_info), "shows found at Aragon Ballroom")
+print(len(show_info), "shows found at", venue)
 
 data = {}
 i = 0
@@ -19,6 +22,7 @@ for show in show_info:
     
     data[i] = {}
     data[i]["title"] = show.select(".css-1ptng6s")[0].text
+    data[i]["location"] = venue
     data[i]["genre"] = show.select(".css-1rr5jlm")[0].text
     data[i]["link"] = show.find("a")["href"]
     data[i]["image"] = show.select(".css-1pdwaq0")[0].find("img")["src"]
