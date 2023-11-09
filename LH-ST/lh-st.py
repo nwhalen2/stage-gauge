@@ -10,11 +10,11 @@ html = page.read().decode("utf-8")
 soup = BeautifulSoup(html, "html.parser")
 
 # website's title == Schubas Tavern || Lincoln Hall - Chicago, IL
-title = re.findall("<title.*?>.*?</title.*?>", html, re.IGNORECASE)
+venue = re.sub("<.*?>", "", re.findall("<title.*?>.*?</title.*?>", html, re.IGNORECASE)[0])
 # lh-st uses this class name to separate shows
 show_info = soup.select(".col") 
 # results found on web:
-print(len(show_info), "shows found at", re.sub("<.*?>", "", title[0]))
+print(len(show_info), "shows found at", venue)
 
 data = {}
 i = 0
