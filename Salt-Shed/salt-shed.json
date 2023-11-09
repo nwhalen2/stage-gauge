@@ -1,0 +1,198 @@
+{
+    "0": {
+        "title": "Old Crow Medicine Show",
+        "genre": "Folk",
+        "link": "https://www.ticketmaster.com/old-crow-medicine-show-chicago-illinois-11-16-2023/event/04005F12951C180F",
+        "image": "https://s1.ticketm.net/dam/a/b13/2a33b70c-4364-4778-8a97-634fa7fa4b13_ARTIST_PAGE_3_2.jpg",
+        "date": "Thu Nov 16"
+    },
+    "1": {
+        "title": "Shakey Graves: Movie Of The Week Tour 2023",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/shakey-graves-movie-of-the-week-chicago-illinois-11-17-2023/event/04005ED4E50B32D3",
+        "image": "https://s1.ticketm.net/dam/a/136/677a6c37-4e06-4150-8f46-5995ee80e136_ARTIST_PAGE_3_2.jpg",
+        "date": "Fri Nov 17"
+    },
+    "2": {
+        "title": "Alt-J: 10Th Anniversary Of An Awesome Wave With Meagre Martin",
+        "genre": "Other",
+        "link": "https://www.ticketmaster.com/altj-10th-anniversary-of-an-awesome-chicago-illinois-11-18-2023/event/04005EEEB29630E5",
+        "image": "https://s1.ticketm.net/dam/a/2e4/ff26172c-9340-404b-95c6-53d100f7f2e4_1666371_ARTIST_PAGE_3_2.jpg",
+        "date": "Sat Nov 18"
+    },
+    "3": {
+        "title": "Alt-J: 10Th Anniversary Of An Awesome Wave With Meagre Martin ",
+        "genre": "Other",
+        "link": "https://www.ticketmaster.com/altj-10th-anniversary-of-an-awesome-chicago-illinois-11-19-2023/event/04005EF3EFF3478D",
+        "image": "https://s1.ticketm.net/dam/a/2e4/ff26172c-9340-404b-95c6-53d100f7f2e4_1666371_ARTIST_PAGE_3_2.jpg",
+        "date": "Sun Nov 19"
+    },
+    "4": {
+        "title": "Galantis",
+        "genre": "Dance/Electronic",
+        "link": "https://www.ticketmaster.com/galantis-chicago-illinois-11-22-2023/event/04005F28F3195728",
+        "image": "https://s1.ticketm.net/dam/a/c59/43a49717-225c-4c1a-965b-ee2c546f0c59_ARTIST_PAGE_3_2.jpg",
+        "date": "Wed Nov 22"
+    },
+    "5": {
+        "title": "Galantis",
+        "genre": "Dance/Electronic",
+        "link": "https://www.ticketmaster.com/galantis-chicago-illinois-11-24-2023/event/04005F519D130D1B",
+        "image": "https://s1.ticketm.net/dam/a/c59/43a49717-225c-4c1a-965b-ee2c546f0c59_ARTIST_PAGE_3_2.jpg",
+        "date": "Fri Nov 24"
+    },
+    "6": {
+        "title": "Riot Fest Presents: The Menzingers",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/riot-fest-presents-the-menzingers-chicago-illinois-11-25-2023/event/04005EEED33E3C5B",
+        "image": "https://s1.ticketm.net/dam/a/d22/4d7dc9f2-8fe5-4c7a-ac72-1dea31847d22_ARTIST_PAGE_3_2.jpg",
+        "date": "Sat Nov 25"
+    },
+    "7": {
+        "title": "Zeds Dead",
+        "genre": "Dance/Electronic",
+        "link": "https://www.ticketmaster.com/zeds-dead-chicago-illinois-12-14-2023/event/04005F2CC1B53720",
+        "image": "https://s1.ticketm.net/dam/a/65a/f58b4190-69cf-493c-921f-78b212e5665a_ARTIST_PAGE_3_2.jpg",
+        "date": "Thu Dec 14"
+    },
+    "8": {
+        "title": "Zeds Dead",
+        "genre": "Dance/Electronic",
+        "link": "https://www.ticketmaster.com/zeds-dead-chicago-illinois-12-15-2023/event/04005F2CC264375B",
+        "image": "https://s1.ticketm.net/dam/a/65a/f58b4190-69cf-493c-921f-78b212e5665a_ARTIST_PAGE_3_2.jpg",
+        "date": "Fri Dec 15"
+    },
+    "9": {
+        "title": "Zeds Dead",
+        "genre": "Dance/Electronic",
+        "link": "https://www.ticketmaster.com/zeds-dead-chicago-illinois-12-16-2023/event/04005F2CC2ED376E",
+        "image": "https://s1.ticketm.net/dam/a/65a/f58b4190-69cf-493c-921f-78b212e5665a_ARTIST_PAGE_3_2.jpg",
+        "date": "Sat Dec 16"
+    },
+    "10": {
+        "title": "Sold Out - Zeds Dead (3 Show Pack - 12/14, 12/15, 12/16)",
+        "genre": "Dance/Electronic",
+        "link": "https://www.ticketmaster.com/sold-out-zeds-dead-3-show-chicago-illinois-12-16-2023/event/04005F2CBC133588",
+        "image": "https://s1.ticketm.net/dam/a/65a/f58b4190-69cf-493c-921f-78b212e5665a_ARTIST_PAGE_3_2.jpg",
+        "date": "Sat Dec 16"
+    },
+    "11": {
+        "title": "Duke Dumont",
+        "genre": "Dance/Electronic",
+        "link": "https://www.ticketmaster.com/duke-dumont-chicago-illinois-12-22-2023/event/04005F22CCD73021",
+        "image": "https://s1.ticketm.net/dam/a/3fe/bf52b7fe-415e-4e86-aadc-a78c4c5643fe_1475281_ARTIST_PAGE_3_2.jpg",
+        "date": "Fri Dec 22"
+    },
+    "12": {
+        "title": "Patti Smith And Her Band",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/patti-smith-and-her-band-chicago-illinois-12-27-2023/event/04005F310082356F",
+        "image": "https://s1.ticketm.net/dam/e/6ff/7d865083-68ac-4293-9b6f-51d6d82a16ff_ARTIST_PAGE_3_2.jpg",
+        "date": "Wed Dec 27"
+    },
+    "13": {
+        "title": "93Xrt Holiday Jam With Mt. Joy",
+        "genre": "Folk",
+        "link": "https://www.ticketmaster.com/93xrt-holiday-jam-with-mt-joy-chicago-illinois-12-28-2023/event/04005F2F9F3A22D8",
+        "image": "https://s1.ticketm.net/dam/a/a08/0a4edfa3-9893-4ace-9815-f8d3f27d2a08_ARTIST_PAGE_3_2.jpg",
+        "date": "Thu Dec 28"
+    },
+    "14": {
+        "title": "Sold Out - Mt. Joy",
+        "genre": "Folk",
+        "link": "https://www.ticketmaster.com/sold-out-mt-joy-chicago-illinois-12-29-2023/event/04005F07910E1177",
+        "image": "https://s1.ticketm.net/dam/a/a08/0a4edfa3-9893-4ace-9815-f8d3f27d2a08_ARTIST_PAGE_3_2.jpg",
+        "date": "Fri Dec 29"
+    },
+    "15": {
+        "title": "Sold Out - Mt. Joy",
+        "genre": "Folk",
+        "link": "https://www.ticketmaster.com/sold-out-mt-joy-chicago-illinois-12-30-2023/event/04005F0791AE118B",
+        "image": "https://s1.ticketm.net/dam/a/a08/0a4edfa3-9893-4ace-9815-f8d3f27d2a08_ARTIST_PAGE_3_2.jpg",
+        "date": "Sat Dec 30"
+    },
+    "16": {
+        "title": "Sold Out - Mt. Joy",
+        "genre": "Folk",
+        "link": "https://www.ticketmaster.com/sold-out-mt-joy-chicago-illinois-12-31-2023/event/04005F0792411193",
+        "image": "https://s1.ticketm.net/dam/a/a08/0a4edfa3-9893-4ace-9815-f8d3f27d2a08_ARTIST_PAGE_3_2.jpg",
+        "date": "Sun Dec 31"
+    },
+    "17": {
+        "title": "Black Pumas With The Dip",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/black-pumas-with-the-dip-chicago-illinois-01-25-2024/event/04005F57996B0CD7",
+        "image": "https://s1.ticketm.net/dam/a/6a9/c934900d-aa91-4cf5-805c-d86a963a66a9_ARTIST_PAGE_3_2.jpg",
+        "date": "Jan 25, 2024"
+    },
+    "18": {
+        "title": "Sold Out - Black Pumas With The Dip",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/sold-out-black-pumas-with-the-chicago-illinois-01-26-2024/event/04005F3DD0A425C4",
+        "image": "https://s1.ticketm.net/dam/a/6a9/c934900d-aa91-4cf5-805c-d86a963a66a9_ARTIST_PAGE_3_2.jpg",
+        "date": "Jan 26, 2024"
+    },
+    "19": {
+        "title": "Sold Out - Black Pumas With The Dip",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/sold-out-black-pumas-with-the-chicago-illinois-01-27-2024/event/04005F397C420B73",
+        "image": "https://s1.ticketm.net/dam/a/6a9/c934900d-aa91-4cf5-805c-d86a963a66a9_ARTIST_PAGE_3_2.jpg",
+        "date": "Jan 27, 2024"
+    },
+    "20": {
+        "title": "Cold War Kids - 20 Years Tour",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/cold-war-kids-20-years-tour-chicago-illinois-02-23-2024/event/04005F2BA3001327",
+        "image": "https://s1.ticketm.net/dam/a/561/fdc9881f-f823-4b2f-b0cd-9d17597ee561_ARTIST_PAGE_3_2.jpg",
+        "date": "Feb 23, 2024"
+    },
+    "21": {
+        "title": "Neck Deep",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/neck-deep-chicago-illinois-02-25-2024/event/04005F3DDB0B293C",
+        "image": "https://s1.ticketm.net/dam/a/05f/4932ab06-1bc3-455b-a006-5d6b08dad05f_ARTIST_PAGE_3_2.jpg",
+        "date": "Feb 25, 2024"
+    },
+    "22": {
+        "title": "Jason Isbell And The 400 Unit",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/jason-isbell-and-the-400-unit-chicago-illinois-02-29-2024/event/04005F63E44F446F",
+        "image": "https://s1.ticketm.net/dam/a/d12/bf37064a-ec26-453d-bd75-657b2fe60d12_ARTIST_PAGE_3_2.jpg",
+        "date": "Feb 29, 2024"
+    },
+    "23": {
+        "title": "Jason Isbell And The 400 Unit",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/jason-isbell-and-the-400-unit-chicago-illinois-03-01-2024/event/04005F63E4CC4484",
+        "image": "https://s1.ticketm.net/dam/a/d12/bf37064a-ec26-453d-bd75-657b2fe60d12_ARTIST_PAGE_3_2.jpg",
+        "date": "Mar 1, 2024"
+    },
+    "24": {
+        "title": "Greensky Bluegrass",
+        "genre": "Country",
+        "link": "https://www.ticketmaster.com/greensky-bluegrass-chicago-illinois-03-02-2024/event/04005F5BDD6229BE",
+        "image": "https://s1.ticketm.net/dam/a/2ab/5231550d-1cfc-43f8-9555-807ceecbc2ab_1545361_ARTIST_PAGE_3_2.jpg",
+        "date": "Mar 2, 2024"
+    },
+    "25": {
+        "title": "Lany - A Beautiful Blur: The World Tour 2024",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/lany-a-beautiful-blur-the-world-chicago-illinois-03-29-2024/event/04005F43CB432277",
+        "image": "https://s1.ticketm.net/dam/a/756/6d082ac5-612d-4bfa-8d35-ab0131cbb756_ARTIST_PAGE_3_2.jpg",
+        "date": "Mar 29, 2024"
+    },
+    "26": {
+        "title": "Lany - A Beautiful Blur: The World Tour 2024",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/lany-a-beautiful-blur-the-world-chicago-illinois-03-30-2024/event/04005F4CD0DD230E",
+        "image": "https://s1.ticketm.net/dam/a/756/6d082ac5-612d-4bfa-8d35-ab0131cbb756_ARTIST_PAGE_3_2.jpg",
+        "date": "Mar 30, 2024"
+    },
+    "27": {
+        "title": "Jeff Rosenstock",
+        "genre": "Rock",
+        "link": "https://www.ticketmaster.com/jeff-rosenstock-chicago-illinois-04-11-2024/event/04005EB2C2702B03",
+        "image": "https://s1.ticketm.net/dam/a/48c/2c18ea1d-9e54-4b40-bcd7-c7d36d1da48c_ARTIST_PAGE_3_2.jpg",
+        "date": "Apr 11, 2024"
+    }
+}
