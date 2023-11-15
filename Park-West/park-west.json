@@ -5,7 +5,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/08/uploadedimage_64dd297365c1d.jpg",
         "title": "BoomBox, Tep No",
         "doors-time": "8:00 PM",
-        "show-time": "9:00 PM"
+        "show-time": "9:00 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "1": {
         "date": "Sat Nov 18",
@@ -13,7 +15,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/07/uploadedimage_64b57a4ba2ab0.jpg",
         "title": "Le Youth, Ocula",
         "doors-time": "8:30 PM",
-        "show-time": "9:00 PM"
+        "show-time": "9:00 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "2": {
         "date": "Tue Nov 21",
@@ -21,7 +25,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/08/uploadedimage_64d6cc5bba4d6.jpg",
         "title": "Depresion Sonora, French Police, DJ Scary Lady Sarah",
         "doors-time": "7:30 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "3": {
         "date": "Fri Nov 24",
@@ -29,7 +35,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/11/uploadedimage_65454601420f7.jpg",
         "title": "Henhouse Prowlers, Pert Near Sandstone, Miles Over Mountains and with special guest The Sullivan Sisters",
         "doors-time": "6:30 PM",
-        "show-time": "7:30 PM"
+        "show-time": "7:30 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "4": {
         "date": "Sat Nov 25",
@@ -37,7 +45,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/04/uploadedimage_643ed9361fede.jpg",
         "title": "Noah Reid, Wyatt C Louis",
         "doors-time": "6:30 PM",
-        "show-time": "7:30 PM"
+        "show-time": "7:30 PM",
+        "age-group": "All Ages",
+        "location": "Park West"
     },
     "5": {
         "date": "Sun Nov 26",
@@ -45,7 +55,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/09/uploadedimage_64fa33832cec6.jpg",
         "title": "Omega X",
         "doors-time": "6:30 PM",
-        "show-time": "7:30 PM"
+        "show-time": "7:30 PM",
+        "age-group": "Guests Under 18 Require Accompanying Adult",
+        "location": "Park West"
     },
     "6": {
         "date": "Tue Nov 28",
@@ -53,7 +65,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/09/uploadedimage_64f756bfc4196.jpg",
         "title": "The Landlord's Cats",
         "doors-time": "6:30 PM",
-        "show-time": "7:30 PM"
+        "show-time": "7:30 PM",
+        "age-group": "All Ages",
+        "location": "Park West"
     },
     "7": {
         "date": "Thu Nov 30",
@@ -61,7 +75,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/07/uploadedimage_64b1aa1fe5c76.jpg",
         "title": "Countess Luann",
         "doors-time": "7:00 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "8": {
         "date": "Fri Dec 1",
@@ -69,7 +85,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/07/uploadedimage_64b1aa53c4b25.jpg",
         "title": "Countess Luann",
         "doors-time": "7:00 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "9": {
         "date": "Sat Dec 2",
@@ -77,7 +95,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/07/uploadedimage_64b1aa8d529b1.jpg",
         "title": "Countess Luann",
         "doors-time": "7:00 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "10": {
         "date": "Tue Dec 5",
@@ -85,7 +105,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/08/uploadedimage_64ee65e058241.jpg",
         "title": "Terrible, Thanks For Asking",
         "doors-time": "6:30 PM",
-        "show-time": "7:30 PM"
+        "show-time": "7:30 PM",
+        "age-group": "All Ages",
+        "location": "Park West"
     },
     "11": {
         "date": "Fri Dec 8",
@@ -93,7 +115,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/07/uploadedimage_64c41e4e8b211.jpg",
         "title": "Pigeons Playing Ping Pong, The North 41",
         "doors-time": "7:00 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "12": {
         "date": "Sat Dec 9",
@@ -101,7 +125,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/10/uploadedimage_65407e652ff85.jpg",
         "title": "Brendan & Jake, Featuring Andy Farag, with Special Guests Mike Racky & Michelle Hallman",
         "doors-time": "7:00 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "All Ages",
+        "location": "Park West"
     },
     "13": {
         "date": "Sun Dec 10",
@@ -109,7 +135,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/09/uploadedimage_65022fc4a5c93.jpg",
         "title": "Kiki & Herb",
         "doors-time": "6:30 PM",
-        "show-time": "7:30 PM"
+        "show-time": "7:30 PM",
+        "age-group": "All Ages",
+        "location": "Park West"
     },
     "14": {
         "date": "Sat Dec 16",
@@ -117,7 +145,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/08/uploadedimage_64ecbbaa90cfb.jpg",
         "title": "PINK TALKING FISH, Beat The Meatles",
         "doors-time": "7:30 PM",
-        "show-time": "8:30 PM"
+        "show-time": "8:30 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "15": {
         "date": "Fri Dec 29",
@@ -125,7 +155,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/10/uploadedimage_652471011a087.jpg",
         "title": "Lab Group",
         "doors-time": "9:00 PM",
-        "show-time": "9:30 PM"
+        "show-time": "9:30 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "16": {
         "date": "Sat Dec 30",
@@ -133,7 +165,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/10/uploadedimage_651ef10b13ae9.jpg",
         "title": "Freddy Jones Band",
         "doors-time": "6:30 PM",
-        "show-time": "7:30 PM"
+        "show-time": "7:30 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "17": {
         "date": "Sun Jan 7",
@@ -141,7 +175,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/10/uploadedimage_652584ec993ef.jpg",
         "title": "VAV",
         "doors-time": "6:30 PM",
-        "show-time": "7:00 PM"
+        "show-time": "7:00 PM",
+        "age-group": "Guests Under 18 Require Accompanying Adult",
+        "location": "Park West"
     },
     "18": {
         "date": "Fri Jan 12",
@@ -149,7 +185,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/10/uploadedimage_65286158bbce6.jpg",
         "title": "G. Love & Special Sauce, with Special Guest Jakobs Castle",
         "doors-time": "7:00 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "19": {
         "date": "Fri Jan 26",
@@ -157,7 +195,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/07/uploadedimage_64af24b1ecae5.jpg",
         "title": "Couch, Alisa Amador",
         "doors-time": "7:00 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "20": {
         "date": "Sat Feb 3",
@@ -165,7 +205,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/09/uploadedimage_650defa87ccb9.jpg",
         "title": "Mayer Hawthorne",
         "doors-time": "6:30 PM",
-        "show-time": "7:30 PM"
+        "show-time": "7:30 PM",
+        "age-group": "All Ages",
+        "location": "Park West"
     },
     "21": {
         "date": "Fri Feb 9",
@@ -173,7 +215,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/10/uploadedimage_652581bdb033e.jpg",
         "title": "The Record Company, With Jesse Ahern",
         "doors-time": "7:00 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "22": {
         "date": "Fri Feb 16",
@@ -181,7 +225,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/11/uploadedimage_6554ec2233df3.jpg",
         "title": "Mia X Ally",
         "doors-time": "7:00 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "All Ages",
+        "location": "Park West"
     },
     "23": {
         "date": "Sat Feb 17",
@@ -189,7 +235,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/11/uploadedimage_654298bf042a7.jpg",
         "title": "Eric Bellinger, Zae France",
         "doors-time": "7:30 PM",
-        "show-time": "8:30 PM"
+        "show-time": "8:30 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "24": {
         "date": "Fri Feb 23",
@@ -197,7 +245,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/09/uploadedimage_650e0640d007e.jpg",
         "title": "Max Barskih",
         "doors-time": "7:00 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "Guests Under 18 Require Accompanying Adult",
+        "location": "Park West"
     },
     "25": {
         "date": "Sat Feb 24",
@@ -205,7 +255,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/10/uploadedimage_651c74ecc6a5a.jpg",
         "title": "Ryan Hamilton",
         "doors-time": "6:00 PM",
-        "show-time": "7:00 PM"
+        "show-time": "7:00 PM",
+        "age-group": "All Ages",
+        "location": "Park West"
     },
     "26": {
         "date": "Fri Mar 22",
@@ -213,7 +265,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/11/uploadedimage_654ea17653c3e.jpg",
         "title": "Little Stranger",
         "doors-time": "7:30 PM",
-        "show-time": "8:30 PM"
+        "show-time": "8:30 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     },
     "27": {
         "date": "Fri Apr 26",
@@ -221,7 +275,9 @@
         "image": "https://images.discovery-prod.axs.com/2023/10/uploadedimage_651f201d78356.jpg",
         "title": "Augustana, Valley Boy",
         "doors-time": "6:30 PM",
-        "show-time": "7:30 PM"
+        "show-time": "7:30 PM",
+        "age-group": "All Ages",
+        "location": "Park West"
     },
     "28": {
         "date": "Sat Oct 5",
@@ -229,6 +285,8 @@
         "image": "https://images.discovery-prod.axs.com/2023/10/uploadedimage_65245f1bef38d.jpg",
         "title": "Willow Pill presents God's Child",
         "doors-time": "7:00 PM",
-        "show-time": "8:00 PM"
+        "show-time": "8:00 PM",
+        "age-group": "18 & Over",
+        "location": "Park West"
     }
 }

@@ -36,6 +36,9 @@ for show in show_info:
     data[i]["doors-time"] = re.sub("Doors: ", "", times[0])
     data[i]["show-time"] = re.sub("Show: ", "", times[1])
 
+    data[i]["age-group"] = show.select('.age')[0].text.strip()
+    data[i]["location"] = show.select('.location')[0].text.strip()
+
     i += 1
 
 # export to json file
