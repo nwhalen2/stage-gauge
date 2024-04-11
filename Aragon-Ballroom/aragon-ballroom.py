@@ -3,6 +3,9 @@ from urllib.request import urlopen
 import re # regex for sub
 import json # for data export
 
+import ssl 
+ssl._create_default_https_context = ssl._create_unverified_context # fixes raise URLError
+
 url = "https://www.livenation.com/venue/KovZpZAFdJnA/byline-bank-aragon-ballroom-events"
 page = urlopen(url)
 html = page.read().decode("utf-8")

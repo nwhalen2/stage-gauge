@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup # HTML parsing
 from urllib.request import urlopen
 import re # regex for sub
 import json # for data export
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
 url = "https://www.jamusa.com/park-west"
 page = urlopen(url)
